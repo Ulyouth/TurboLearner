@@ -1,0 +1,3 @@
+SOURCE = \
+mybuoyantPimpleFoam.C \
+turbulentHeatFluxTemperatureFvPatchScalarField.C 

@@ -1,0 +1,5 @@
+mybuoyantPimpleFoam.C
+turbulentHeatFluxTemperatureFvPatchScalarField.C
+
+
+EXE = $(FOAM_USER_APPBIN)/mybuoyantPimpleFoam
