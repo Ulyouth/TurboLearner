@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 NAME:   plotGraphs.py
-AUTHOR: André Maia
+AUTHOR: Ulyouth
 DATE:   05.06.2020 
 DESC:   A script to plot the results of scripts "genSamples.sh", 
         "optzSamples.py" and "evalSamples.py".
