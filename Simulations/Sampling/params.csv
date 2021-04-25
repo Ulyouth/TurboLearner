@@ -1,0 +1,10 @@
+case,smpl_path,dns_path,qw,tau_w0,max_dr,min_dT,Astar,Cd
+37U,37U_tmp/postProcessing/sampleDict,../../DNS/37U,-30.87,0.0760,0.01,1,70,5
+38D,38D_tmp/postProcessing/sampleDict,../../DNS/38D,-30.87,0.0760,0.01,1,70,5
+39F,39F_tmp/postProcessing/sampleDict,../../DNS/39F,-30.87,0.0760,0.01,1,70,5
+40U,40U_tmp/postProcessing/sampleDict,../../DNS/40U,-61.74,0.0760,0.01,1,70,5
+41D,41D_tmp/postProcessing/sampleDict,../../DNS/41D,-61.74,0.0760,0.01,1,70,5
+42F,42F_tmp/postProcessing/sampleDict,../../DNS/42F,-61.74,0.0760,0.01,1,70,5
+48U,48U_tmp/postProcessing/sampleDict,../../DNS/48U,-30.87,0.0760,0.01,1,70,5
+49D,49D_tmp/postProcessing/sampleDict,../../DNS/49D,-30.87,0.0760,0.01,1,70,5
+50F,50F_tmp/postProcessing/sampleDict,../../DNS/50F,-30.87,0.0760,0.01,1,70,5
