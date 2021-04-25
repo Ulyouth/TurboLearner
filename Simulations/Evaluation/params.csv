@@ -1,0 +1,7 @@
+case,smpl_path,dns_path,qw,tau_w0,max_dr,min_dT,Astar,Cd
+37U,../Sampling/_37U_2_4_Prt=0.85_Astar,../DNS/37U,-30.87,0.0760,0.01,1,70,5
+38D,../Sampling/_38D_2_4_Prt=0.85_Astar,../DNS/38D,-30.87,0.0760,0.01,1,70,5
+39F,../Sampling/_39F_2_4_Prt=0.85_Astar,../DNS/39F,-30.87,0.0760,0.01,1,70,5
+40U,../Sampling/_40U_2_4_Prt=0.85_Astar,../DNS/40U,-61.74,0.0760,0.01,1,70,5
+41D,../Sampling/_41D_2_4_Prt=0.85_Astar,../DNS/41D,-61.74,0.0760,0.01,1,70,5
+42F,../Sampling/_42F_2_4_Prt=0.85_Astar,../DNS/42F,-61.74,0.0760,0.01,1,70,5
