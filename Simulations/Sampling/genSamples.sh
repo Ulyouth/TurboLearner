@@ -2,7 +2,7 @@
 
 ###########################################################################
 # NAME:   genSamples.sh
-# AUTHOR: André Maia
+# AUTHOR: Ulyouth
 # DATE:   10.06.2020
 # DESC:   A script to generate sCO2 case samples using OpenFOAM for
 #         varying Myong-Kasagi model coefficients. The coefficients
