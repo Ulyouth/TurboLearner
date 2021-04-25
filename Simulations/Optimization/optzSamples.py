@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 NAME:   optzSamples.py
-AUTHOR: André Maia
+AUTHOR: Ulyouth
 DATE:   31.05.2020
 DESC:   A script to compare the evolution of a sample's results over 
         time and determine when they stop varying (when the flow becomes
